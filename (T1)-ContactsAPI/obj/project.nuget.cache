@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v0Ora1+/nmg=",
+  "dgSpecHash": "MqPR+3mQpHY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Steven\\Desktop\\Master Templates\\Tier 0\\(Basic) Naked ASP.NET Web API CRUD\\(T1) Contacts API\\(T1)-ContactsAPI\\(T1)-ContactsAPI.csproj",
+  "projectFilePath": "C:\\Users\\Steven\\Desktop\\Master Templates\\T1 - Themed Templates\\(T1) Contacts API\\(T1)-ContactsAPI\\(T1)-ContactsAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Steven\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
     "C:\\Users\\Steven\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.11\\microsoft.entityframeworkcore.9.0.11.nupkg.sha512",

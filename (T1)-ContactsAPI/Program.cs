@@ -25,6 +25,7 @@ var app = builder.Build();
 // ------------------------------------------
 //  2. DATABASE: Bootstrap and Initialization
 // ------------------------------------------
+
 using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
@@ -36,13 +37,8 @@ using (var scope = app.Services.CreateScope())
 //  3. PIPELINE: Configure the HTTP request pipeline
 // ------------------------------------------
 
-app.UseHttpsRedirection();
-
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+app.UseSwagger();
+app.UseSwaggerUI();
 
 app.UseAuthorization();
 

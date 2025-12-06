@@ -10,7 +10,6 @@ A compact, professional sample Contacts API built with .NET 9. This repository d
 - Interactive API documentation via Swagger / OpenAPI
 - Example-ready endpoints for common CRUD operations on `Contact` resources
 - In-memory database for fast local demos, with guidance to switch to a persistent provider
-- Dockerfile included for containerized demos
 
 - Model (fields): Contact has `Id`, `FirstName`, `LastName`, `Email`, `Number`.
 
@@ -99,15 +98,6 @@ To enable a persistent database:
 
    `dotnet ef migrations add InitialCreate`
    `dotnet ef database update`
-
-## Docker
-
-Build and run the service in a container for easy demos:
-
-```
-docker build -t contacts-api:latest .
-docker run -p 5000:80 contacts-api:latest
-```
 
 ## Development Notes
 

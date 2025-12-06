@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Steven\\Desktop\\Master Templates\\Tier 0\\(Basic) Naked ASP.NET Web API CRUD\\(T1) Contacts API\\(T1)-ContactsAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\Steven\\Desktop\\Master Templates\\T1 - Themed Templates\\(T1) Contacts API\\(T1)-ContactsAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F49216E-03A7-1D49-ABDC-920508EB0C28}|(T1)-ContactsAPI.csproj|c:\\users\\steven\\desktop\\master templates\\tier 0\\(basic) naked asp.net web api crud\\(t1) contacts api\\(t1)-contactsapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6F49216E-03A7-1D49-ABDC-920508EB0C28}|(T1)-ContactsAPI.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{6F49216E-03A7-1D49-ABDC-920508EB0C28}|(T1)-ContactsAPI.csproj|c:\\users\\steven\\desktop\\master templates\\t1 - themed templates\\(t1) contacts api\\(t1)-contactsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F49216E-03A7-1D49-ABDC-920508EB0C28}|(T1)-ContactsAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F49216E-03A7-1D49-ABDC-920508EB0C28}|(T1)-ContactsAPI.csproj|c:\\users\\steven\\desktop\\master templates\\tier 0\\(basic) naked asp.net web api crud\\(t1) contacts api\\(t1)-contactsapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{6F49216E-03A7-1D49-ABDC-920508EB0C28}|(T1)-ContactsAPI.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F49216E-03A7-1D49-ABDC-920508EB0C28}|(T1)-ContactsAPI.csproj|c:\\users\\steven\\desktop\\master templates\\tier 0\\(basic) naked asp.net web api crud\\(t1) contacts api\\(t1)-contactsapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F49216E-03A7-1D49-ABDC-920508EB0C28}|(T1)-ContactsAPI.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F49216E-03A7-1D49-ABDC-920508EB0C28}|(T1)-ContactsAPI.csproj|c:\\users\\steven\\desktop\\master templates\\tier 0\\(basic) naked asp.net web api crud\\(t1) contacts api\\(t1)-contactsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F49216E-03A7-1D49-ABDC-920508EB0C28}|(T1)-ContactsAPI.csproj|c:\\users\\steven\\desktop\\master templates\\t1 - themed templates\\(t1) contacts api\\(t1)-contactsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F49216E-03A7-1D49-ABDC-920508EB0C28}|(T1)-ContactsAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F49216E-03A7-1D49-ABDC-920508EB0C28}|(T1)-ContactsAPI.csproj|c:\\users\\steven\\desktop\\master templates\\tier 0\\(basic) naked asp.net web api crud\\(t1) contacts api\\(t1)-contactsapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F49216E-03A7-1D49-ABDC-920508EB0C28}|(T1)-ContactsAPI.csproj|c:\\users\\steven\\desktop\\master templates\\t1 - themed templates\\(t1) contacts api\\(t1)-contactsapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{6F49216E-03A7-1D49-ABDC-920508EB0C28}|(T1)-ContactsAPI.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49216E-03A7-1D49-ABDC-920508EB0C28}|(T1)-ContactsAPI.csproj|c:\\users\\steven\\desktop\\master templates\\t1 - themed templates\\(t1) contacts api\\(t1)-contactsapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F49216E-03A7-1D49-ABDC-920508EB0C28}|(T1)-ContactsAPI.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F49216E-03A7-1D49-ABDC-920508EB0C28}|(T1)-ContactsAPI.csproj|c:\\users\\steven\\desktop\\master templates\\t1 - themed templates\\(t1) contacts api\\(t1)-contactsapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F49216E-03A7-1D49-ABDC-920508EB0C28}|(T1)-ContactsAPI.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F49216E-03A7-1D49-ABDC-920508EB0C28}|(T1)-ContactsAPI.csproj|c:\\users\\steven\\desktop\\master templates\\tier 0\\(basic) naked asp.net web api crud\\(t1) contacts api\\(t1)-contactsapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F49216E-03A7-1D49-ABDC-920508EB0C28}|(T1)-ContactsAPI.csproj|c:\\users\\steven\\desktop\\master templates\\t1 - themed templates\\(t1) contacts api\\(t1)-contactsapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F49216E-03A7-1D49-ABDC-920508EB0C28}|(T1)-ContactsAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -37,63 +37,67 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Master Templates\\T1 - Themed Templates\\(T1) Contacts API\\(T1)-ContactsAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Steven\\Desktop\\Master Templates\\T1 - Themed Templates\\(T1) Contacts API\\(T1)-ContactsAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-06T15:02:06.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Master Templates\\Tier 0\\(Basic) Naked ASP.NET Web API CRUD\\(T1) Contacts API\\(T1)-ContactsAPI\\README.md",
+              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Master Templates\\T1 - Themed Templates\\(T1) Contacts API\\(T1)-ContactsAPI\\README.md",
               "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\Steven\\Desktop\\Master Templates\\Tier 0\\(Basic) Naked ASP.NET Web API CRUD\\(T1) Contacts API\\(T1)-ContactsAPI\\README.md",
+              "ToolTip": "C:\\Users\\Steven\\Desktop\\Master Templates\\T1 - Themed Templates\\(T1) Contacts API\\(T1)-ContactsAPI\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAAwH0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-12-06T05:04:26.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Master Templates\\Tier 0\\(Basic) Naked ASP.NET Web API CRUD\\(T1) Contacts API\\(T1)-ContactsAPI\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\Steven\\Desktop\\Master Templates\\Tier 0\\(Basic) Naked ASP.NET Web API CRUD\\(T1) Contacts API\\(T1)-ContactsAPI\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-05T14:08:03.539Z",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Master Templates\\T1 - Themed Templates\\(T1) Contacts API\\(T1)-ContactsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Steven\\Desktop\\Master Templates\\T1 - Themed Templates\\(T1) Contacts API\\(T1)-ContactsAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:02:23.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Master Templates\\Tier 0\\(Basic) Naked ASP.NET Web API CRUD\\(T1) Contacts API\\(T1)-ContactsAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Steven\\Desktop\\Master Templates\\Tier 0\\(Basic) Naked ASP.NET Web API CRUD\\(T1) Contacts API\\(T1)-ContactsAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T14:02:23.356Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Master Templates\\Tier 0\\(Basic) Naked ASP.NET Web API CRUD\\(T1) Contacts API\\(T1)-ContactsAPI\\Models\\Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Master Templates\\T1 - Themed Templates\\(T1) Contacts API\\(T1)-ContactsAPI\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "Models\\Contact.cs",
-              "ToolTip": "C:\\Users\\Steven\\Desktop\\Master Templates\\Tier 0\\(Basic) Naked ASP.NET Web API CRUD\\(T1) Contacts API\\(T1)-ContactsAPI\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Steven\\Desktop\\Master Templates\\T1 - Themed Templates\\(T1) Contacts API\\(T1)-ContactsAPI\\Models\\Contact.cs",
               "RelativeToolTip": "Models\\Contact.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T13:49:06.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T13:49:06.274Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Master Templates\\Tier 0\\(Basic) Naked ASP.NET Web API CRUD\\(T1) Contacts API\\(T1)-ContactsAPI\\Controllers\\ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Master Templates\\T1 - Themed Templates\\(T1) Contacts API\\(T1)-ContactsAPI\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\Steven\\Desktop\\Master Templates\\Tier 0\\(Basic) Naked ASP.NET Web API CRUD\\(T1) Contacts API\\(T1)-ContactsAPI\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Steven\\Desktop\\Master Templates\\T1 - Themed Templates\\(T1) Contacts API\\(T1)-ContactsAPI\\Controllers\\ContactController.cs",
               "RelativeToolTip": "Controllers\\ContactController.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAgwFUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,9 +107,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Master Templates\\Tier 0\\(Basic) Naked ASP.NET Web API CRUD\\(T1) Contacts API\\(T1)-ContactsAPI\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Master Templates\\T1 - Themed Templates\\(T1) Contacts API\\(T1)-ContactsAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Steven\\Desktop\\Master Templates\\Tier 0\\(Basic) Naked ASP.NET Web API CRUD\\(T1) Contacts API\\(T1)-ContactsAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Steven\\Desktop\\Master Templates\\T1 - Themed Templates\\(T1) Contacts API\\(T1)-ContactsAPI\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

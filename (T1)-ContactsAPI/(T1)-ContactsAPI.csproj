@@ -8,8 +8,6 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>_T1__ContactsAPI</RootNamespace>
     <UserSecretsId>dfbeadea-b2aa-4dbd-b9e6-3f57b3f11e28</UserSecretsId>
-    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
-    <DockerfileContext>.</DockerfileContext>
   </PropertyGroup>
 
   <ItemGroup>
@@ -19,6 +17,6 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.6" />
   </ItemGroup>
 
-  <ProjectExtensions><VisualStudio><UserProperties postman_4postmancollections_1json__JsonSchema="https://schema.getpostman.com/json/collection/v2.1.0/collection.json" /></VisualStudio></ProjectExtensions>
+  <ProjectExtensions><VisualStudio><UserProperties /></VisualStudio></ProjectExtensions>
 
 </Project>
