@@ -1,0 +1,62 @@
+﻿# Minimal CRUD API
+
+## Quick Start
+
+1. Build and run:
+
+   dotnet run
+
+2. Open Swagger UI (development environment):
+
+   https://localhost:{port}/swagger
+
+3. API base path:
+
+   `https://localhost:{port}/api/entity1`
+
+## Endpoints
+
+- GET /api/entity1
+  - Returns list of Entity1 objects
+  - Example:
+    curl -sS https://localhost:{port}/api/entity1
+
+- GET /api/entity1/{id}
+  - Returns single Entity1 or 404
+  - Example:
+    curl -sS https://localhost:{port}/api/entity1/1
+
+- POST /api/entity1
+  - Create new Entity1. Body JSON example:
+    {
+      "name": "Example"
+    }
+  - Example:
+    curl -X POST -H "Content-Type: application/json" -d '{"name":"Example"}' https://localhost:{port}/api/entity1
+
+- PUT /api/entity1/{id}
+  - Update existing Entity1. Body JSON same as POST.
+  - Example:
+    curl -X PUT -H "Content-Type: application/json" -d '{"name":"Updated"}' https://localhost:{port}/api/entity1/1
+
+- DELETE /api/entity1/{id}
+  - Deletes entity
+  - Example:
+    curl -X DELETE https://localhost:{port}/api/entity1/1
+
+## Important Notes
+
+- Persistence: This template uses the EF Core In-Memory provider by default. Data does NOT persist across process restarts. This is intended for development and demos only.
+
+- Upgrade to a persistent provider: To make data persistent, replace the In-Memory registration in `Program.cs` with a relational provider (for example SQL Server or PostgreSQL), add the corresponding EF Core provider package(s), and enable migrations.
+
+- Validation: Basic validation attributes are applied to the `Entity1` model. The `[ApiController]` attribute provides automatic model validation and will return 400 Bad Request when input is invalid.
+
+- Swagger/OpenAPI is enabled for easy exploration. Include example requests in your client documentation or Postman collection.
+
+## Further Improvements (optional add-ons)
+
+- Add DTOs and mapping to decouple API contract from database schema.
+- Add authentication and authorization for production use.
+- Replace In-Memory provider with a relational provider and enable EF Core migrations.
+- Add structured logging (`ILogger<T>`), and unit/integration tests.

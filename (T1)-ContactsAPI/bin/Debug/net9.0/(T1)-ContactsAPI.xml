@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>(T1)-ContactsAPI</name>
+    </assembly>
+    <members>
+        <member name="M:_T1__ContactsAPI.Controllers.ContactController.GetAll">
+            <summary>
+            Retrieves all Contact records from the database.
+            </summary>
+        </member>
+        <member name="M:_T1__ContactsAPI.Controllers.ContactController.GetById(System.Int32)">
+            <summary>
+            Retrieves a specific Contact by ID.
+            </summary>
+            <param name="id">The ID of the contact</param>
+            <returns>Contact object or 404 Not Found</returns>
+        </member>
+        <member name="M:_T1__ContactsAPI.Controllers.ContactController.Create(_T1__ContactsAPI.Models.Contact)">
+            <summary>
+            Creates a new Contact record.
+            </summary>
+            <param name="contact">The contact to create</param>
+            <returns>The created Contact</returns>
+        </member>
+        <member name="M:_T1__ContactsAPI.Controllers.ContactController.Update(System.Int32,_T1__ContactsAPI.Models.Contact)">
+            <summary>
+            Updates an existing Contact record.
+            </summary>
+            <param name="id">ID of the contact to update</param>
+            <param name="update">Contact object with updated fields</param>
+        </member>
+        <member name="M:_T1__ContactsAPI.Controllers.ContactController.Delete(System.Int32)">
+            <summary>
+            Deletes a specific Contact by ID.
+            </summary>
+            <param name="id">ID of the contact to delete</param>
+        </member>
+    </members>
+</doc>

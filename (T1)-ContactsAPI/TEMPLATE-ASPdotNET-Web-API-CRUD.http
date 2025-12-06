@@ -1,0 +1,6 @@
+@TEMPLATE_ASPdotNET_Web_API_CRUD_HostAddress = http://localhost:5198
+
+GET {{TEMPLATE_ASPdotNET_Web_API_CRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
